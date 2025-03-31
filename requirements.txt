@@ -1,0 +1,7 @@
+gymnasium
+box2d-py
+torch
+torchvision
+torch_geometric
+numpy
+matplotlib
