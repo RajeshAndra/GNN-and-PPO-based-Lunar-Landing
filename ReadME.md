@@ -3,9 +3,7 @@
 ## Model Performance video
 
 
-<video width="600" controls>
-  <source src="lunar_lander.mp4" type="video/mp4">
-</video>
+![Lunar Lander Demo](./Lunar_Landing_Using_GNN_Policy.gif)
 
 ## Overview
 This project explores different deep reinforcement learning architectures for solving the Lunar Lander problem. The primary focus is on comparing:
